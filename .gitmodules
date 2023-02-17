@@ -1,6 +1,6 @@
 [submodule "client"]
 	path = client
-	url = https://github.com/jaypatel3382/portfolio-website
+	url = https://github.com/jaypatel3382/portfolio-frontend
 [submodule "server"]
 	path = server
 	url = https://github.com/jaypatel3382/portfolio-backend
