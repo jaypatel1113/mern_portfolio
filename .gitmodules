@@ -1,6 +1,6 @@
 [submodule "client"]
 	path = client
-	url = https://github.com/jaypatel3382/portfolio-frontend
+	url = https://github.com/jaypatel1113/mern_portfolio_frontend
 [submodule "server"]
 	path = server
-	url = https://github.com/jaypatel3382/portfolio-backend
+	url = https://github.com/jaypatel1113/mern_portfolio_backend
